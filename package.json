@@ -1,0 +1,24 @@
+{
+  "name": "dump-assets-webpack-plugin",
+  "version": "1.0.0",
+  "description": "dump assets of entry to a json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbysir/dump-assets-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "hash",
+    "assets"
+  ],
+  "author": "bysir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbysir/dump-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/zbysir/dump-assets-webpack-plugin#readme"
+}
